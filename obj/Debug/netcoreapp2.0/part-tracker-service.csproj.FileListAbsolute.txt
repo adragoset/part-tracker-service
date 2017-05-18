@@ -1,0 +1,9 @@
+C:\Users\adragose\Documents\Source\part-tracker-service\bin\Debug\netcoreapp2.0\part-tracker-service.deps.json
+C:\Users\adragose\Documents\Source\part-tracker-service\bin\Debug\netcoreapp2.0\part-tracker-service.runtimeconfig.json
+C:\Users\adragose\Documents\Source\part-tracker-service\bin\Debug\netcoreapp2.0\part-tracker-service.runtimeconfig.dev.json
+C:\Users\adragose\Documents\Source\part-tracker-service\bin\Debug\netcoreapp2.0\part-tracker-service.dll
+C:\Users\adragose\Documents\Source\part-tracker-service\bin\Debug\netcoreapp2.0\part-tracker-service.pdb
+C:\Users\adragose\Documents\Source\part-tracker-service\obj\Debug\netcoreapp2.0\part-tracker-service.csproj.CoreCompileInputs.cache
+C:\Users\adragose\Documents\Source\part-tracker-service\obj\Debug\netcoreapp2.0\part-tracker-service.AssemblyInfo.cs
+C:\Users\adragose\Documents\Source\part-tracker-service\obj\Debug\netcoreapp2.0\part-tracker-service.dll
+C:\Users\adragose\Documents\Source\part-tracker-service\obj\Debug\netcoreapp2.0\part-tracker-service.pdb
